@@ -144,3 +144,4 @@ C:\Users\User\Desktop\proje\OgrenciKarneLocal\obj\Debug\net8.0\refint\OgrenciKar
 C:\Users\User\Desktop\proje\OgrenciKarneLocal\obj\Debug\net8.0\OgrenciKarneLocal.pdb
 C:\Users\User\Desktop\proje\OgrenciKarneLocal\obj\Debug\net8.0\OgrenciKarneLocal.genruntimeconfig.cache
 C:\Users\User\Desktop\proje\OgrenciKarneLocal\obj\Debug\net8.0\ref\OgrenciKarneLocal.dll
+C:\Users\User\Desktop\proje\OgrenciKarneLocal\obj\Debug\net8.0\OgrenciKarneLocal.sourcelink.json

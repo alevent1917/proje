@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OgrenciKarneLocal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4781f74ca613e01a6c8ef8d90d1907b8d593f93")]
 [assembly: System.Reflection.AssemblyProductAttribute("OgrenciKarneLocal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OgrenciKarneLocal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
